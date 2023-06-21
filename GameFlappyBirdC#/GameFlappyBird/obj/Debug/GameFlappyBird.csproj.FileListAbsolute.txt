@@ -1,0 +1,14 @@
+D:\GameFlappyBirdC#\GameFlappyBird\bin\Debug\GameFlappyBird.exe.config
+D:\GameFlappyBirdC#\GameFlappyBird\bin\Debug\GameFlappyBird.exe
+D:\GameFlappyBirdC#\GameFlappyBird\bin\Debug\GameFlappyBird.pdb
+D:\GameFlappyBirdC#\GameFlappyBird\obj\Debug\GameFlappyBird.csproj.AssemblyReference.cache
+D:\GameFlappyBirdC#\GameFlappyBird\obj\Debug\GameFlappyBird.Properties.Resources.resources
+D:\GameFlappyBirdC#\GameFlappyBird\obj\Debug\GameFlappyBird.csproj.GenerateResource.cache
+D:\GameFlappyBirdC#\GameFlappyBird\obj\Debug\GameFlappyBird.csproj.CoreCompileInputs.cache
+D:\GameFlappyBirdC#\GameFlappyBird\obj\Debug\GameFlappyBird.exe
+D:\GameFlappyBirdC#\GameFlappyBird\obj\Debug\GameFlappyBird.pdb
+D:\GameFlappyBirdC#\GameFlappyBird\obj\Debug\GameFlappyBird.frmFlappyBird.resources
+D:\GameFlappyBirdC#\GameFlappyBird\obj\Debug\GameFlappyBird.frmResult.resources
+C:\Users\FPT\Downloads\GameFlappyBirdC\GameFlappyBirdC#\GameFlappyBird\obj\Debug\GameFlappyBird.csproj.AssemblyReference.cache
+C:\Users\FPT\Downloads\GameFlappyBirdC\GameFlappyBirdC#\GameFlappyBird\obj\Debug\GameFlappyBird.exe
+C:\Users\FPT\Downloads\GameFlappyBirdC\GameFlappyBirdC#\GameFlappyBird\obj\Debug\GameFlappyBird.pdb
